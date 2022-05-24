@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on A Login Python Scipt Thing
 - - 🌱 I’m currently learning ...
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
