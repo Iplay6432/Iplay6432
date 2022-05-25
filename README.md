@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on A Login Python Scipt Thing
-- - 🌱 I’m currently learning ...
+- 🌱 I’m currently learning C++
+- 😄 Pronouns: They/She
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
