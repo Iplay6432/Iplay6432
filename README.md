@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: They/She
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
 
@@ -99,7 +99,7 @@ C++                      1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Iplay6432/Iplay6432/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/06/2022 18:51:53 UTC
+ Last Updated on 02/06/2022 18:49:01 UTC
 <!--END_SECTION:waka-->
 
 ![snake](https://raw.githubusercontent.com/Iplay6432/Iplay6432/output/github-contribution-grid-snake.svg)
