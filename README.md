@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
@@ -64,21 +64,16 @@ Sunday       2 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C#                       1 hr 8 mins         ████████████████████████░   96.26% 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.62% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 11 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 8 mins         ████████████████████████░   96.26% 
-nitro-generator-master   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.74%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 11 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -97,7 +92,7 @@ C++                      1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Iplay6432/Iplay6432/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/06/2022 18:44:32 UTC
+ Last Updated on 07/06/2022 18:48:28 UTC
 <!--END_SECTION:waka-->
 
 ![snake](https://raw.githubusercontent.com/Iplay6432/Iplay6432/output/github-contribution-grid-snake.svg)
