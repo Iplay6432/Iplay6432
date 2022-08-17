@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: They/She
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,18 +65,16 @@ Sunday       2 commits      ░░░░░░░░░░░░░░░░░�
 
 💬 Programming Languages: 
 Other                    0 secs              ███████████████░░░░░░░░░░   62.62% 
-Python                   0 secs              █████████░░░░░░░░░░░░░░░░   37.38% 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Python                   0 secs              █████████░░░░░░░░░░░░░░░░   37.38%
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+VS Code                  1 min               █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Lugin-but-no-Pygame-     1 min               █████████████████████████   100.0% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Lugin-but-no-Pygame-     1 min               █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+Windows                  1 min               █████████████████████████   100.0%
 
 ```
 
@@ -95,7 +93,7 @@ C++                      1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Iplay6432/Iplay6432/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/08/2022 18:46:30 UTC
+ Last Updated on 17/08/2022 18:50:15 UTC
 <!--END_SECTION:waka-->
 
 ![snake](https://raw.githubusercontent.com/Iplay6432/Iplay6432/output/github-contribution-grid-snake.svg)
