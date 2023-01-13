@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 86 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 299.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 21 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
@@ -92,7 +92,7 @@ C++                      1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Iplay6432/Iplay6432/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2022 18:48:27 UTC
+ Last Updated on 13/01/2023 18:40:43 UTC
 <!--END_SECTION:waka-->
 
 ![snake](https://raw.githubusercontent.com/Iplay6432/Iplay6432/output/github-contribution-grid-snake.svg)
