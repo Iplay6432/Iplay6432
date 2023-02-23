@@ -25,43 +25,41 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2023
- > 
 > 📦 299.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 21 Public Repositories 
  > 
-> 🔑 1 Private Repository 
+> 🔑 1 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning       15 commits       █████░░░░░░░░░░░░░░░░░░░░   22.73 % 
-🌆 Daytime       12 commits       ████░░░░░░░░░░░░░░░░░░░░░   18.18 % 
-🌃 Evening       39 commits       ██████████████░░░░░░░░░░░   59.09 % 
-🌙 Night          0 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
+🌞 Morning                15 commits          ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+🌆 Daytime                12 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+🌃 Evening                39 commits          ███████████████░░░░░░░░░░   59.09 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday           6 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Tuesday         12 commits       ████░░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Wednesday       16 commits       ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-Thursday        13 commits       █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-Friday           6 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Saturday        11 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Sunday           2 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-
+Monday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Tuesday                  12 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Wednesday                16 commits          ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+Thursday                 13 commits          █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+Friday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Saturday                 11 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Sunday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/New_York
+🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -74,25 +72,24 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   3 repos             ██████████░░░░░░░░░░░░░░░   42.86 % 
-JavaScript               3 repos             ██████████░░░░░░░░░░░░░░░   42.86 % 
-C++                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-
+Python                   3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+JavaScript               3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+C++                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 ```
+
 
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Iplay6432/Iplay6432/main/charts/bar_graph.png) 
+![Lines of Code chart](https://raw.githubusercontent.com/Iplay6432/Iplay6432/main/assets/bar_graph.png)
 
 
- Last Updated on 21/02/2023 18:40:38 UTC
+ Last Updated on 23/02/2023 18:41:52 UTC
 <!--END_SECTION:waka-->
 
 ![snake](https://raw.githubusercontent.com/Iplay6432/Iplay6432/output/github-contribution-grid-snake.svg)
