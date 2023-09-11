@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on [A Login Python Scipt Thing](https://github.com/Iplay6432/Lugin-but-no-Pygame-)
 - 🌱 I’m currently [learning C++](https://github.com/Iplay6432/LearningCpp)
-- 😄 Pronouns: They/She
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%201%20min-blue)
