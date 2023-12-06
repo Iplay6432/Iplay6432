@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%201%20min-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -35,45 +33,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                27 commits          ████████░░░░░░░░░░░░░░░░░   31.40 % 
-🌆 Daytime                18 commits          █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-🌃 Evening                41 commits          ████████████░░░░░░░░░░░░░   47.67 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-Tuesday                  16 commits          █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-Wednesday                24 commits          ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-Thursday                 19 commits          ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-Friday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Saturday                 12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Sunday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -89,7 +48,7 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Iplay6432/Iplay6432/main/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2023 18:37:04 UTC
+ Last Updated on 06/12/2023 18:37:33 UTC
 <!--END_SECTION:waka-->
 
 ![snake](https://raw.githubusercontent.com/Iplay6432/Iplay6432/output/github-contribution-grid-snake.svg)
