@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -93,7 +93,7 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Iplay6432/Iplay6432/main/assets/bar_graph.png)
 
 
- Last Updated on 06/01/2024 18:36:31 UTC
+ Last Updated on 07/01/2024 18:35:56 UTC
 <!--END_SECTION:waka-->
 
 ![snake](https://raw.githubusercontent.com/Iplay6432/Iplay6432/output/github-contribution-grid-snake.svg)
