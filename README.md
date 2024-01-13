@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,20 +62,18 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   6 hrs 57 mins       █████████████████████████   99.03 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Python                   3 hrs 33 mins       █████████████████████████   98.13 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  3 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Documents                6 hrs 59 mins       █████████████████████████   99.47 % 
-pytextnow                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Documents                3 hrs 37 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  3 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,7 +91,7 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Iplay6432/Iplay6432/main/assets/bar_graph.png)
 
 
- Last Updated on 12/01/2024 18:37:28 UTC
+ Last Updated on 13/01/2024 18:36:08 UTC
 <!--END_SECTION:waka-->
 
 ![snake](https://raw.githubusercontent.com/Iplay6432/Iplay6432/output/github-contribution-grid-snake.svg)
