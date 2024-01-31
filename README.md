@@ -19,13 +19,15 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 299.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,20 +62,17 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   6 hrs 8 mins        ███████████████████████░░   93.95 % 
-Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Python                   5 hrs 47 mins       █████████████████████████   99.10 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 50 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          5 hrs 50 mins       ██████████████████████░░░   89.59 % 
-Documents                40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Unknown Project          5 hrs 50 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,7 +90,7 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Iplay6432/Iplay6432/main/assets/bar_graph.png)
 
 
- Last Updated on 30/01/2024 18:35:56 UTC
+ Last Updated on 31/01/2024 18:36:03 UTC
 <!--END_SECTION:waka-->
 
 ![snake](https://raw.githubusercontent.com/Iplay6432/Iplay6432/output/github-contribution-grid-snake.svg)
