@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2020%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -89,7 +91,7 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Iplay6432/Iplay6432/main/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2024 22:24:03 UTC
+ Last Updated on 15/04/2024 18:37:04 UTC
 <!--END_SECTION:waka-->
 
 ![snake](https://raw.githubusercontent.com/Iplay6432/Iplay6432/output/github-contribution-grid-snake.svg)
