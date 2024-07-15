@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -60,18 +60,18 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   4 hrs 38 mins       █████████████████████████   98.09 % 
-INI                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Python                   5 hrs 31 mins       ████████████████████████░   97.74 % 
+INI                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 43 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PythonDiary              4 hrs 43 mins       █████████████████████████   100.00 % 
+PythonDiary              5 hrs 39 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 43 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,7 +89,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Iplay6432/Iplay6432/main/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2024 18:49:54 UTC
+ Last Updated on 15/07/2024 18:39:59 UTC
 <!--END_SECTION:waka-->
 
 ![snake](https://raw.githubusercontent.com/Iplay6432/Iplay6432/output/github-contribution-grid-snake.svg)
