@@ -19,13 +19,15 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 335.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 97 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,16 +62,14 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Java                     1 hr 2 mins         █████████████████████████   99.73 % 
+Java                     1 hr 2 mins         █████████████████████████   99.82 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
 VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unit1                    1 hr 2 mins         █████████████████████████   99.92 % 
-PythonDiary              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Unit1                    1 hr 2 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
@@ -90,7 +90,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Iplay6432/Iplay6432/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2024 18:38:50 UTC
+ Last Updated on 26/08/2024 18:40:55 UTC
 <!--END_SECTION:waka-->
 
 ![snake](https://raw.githubusercontent.com/Iplay6432/Iplay6432/output/github-contribution-grid-snake.svg)
