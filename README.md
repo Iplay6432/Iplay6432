@@ -19,13 +19,15 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 335.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 99 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,19 +62,19 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Java                     34 mins             ██████████████████░░░░░░░   73.56 % 
-Python                   12 mins             ███████░░░░░░░░░░░░░░░░░░   26.25 % 
-Ruby                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Java                     44 mins             ████████████████████░░░░░   78.00 % 
+Python                   12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+Ruby                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-VS Code                  47 mins             █████████████████████████   100.00 % 
+VS Code                  56 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unit1                    41 mins             ██████████████████████░░░   86.84 % 
-PianoPython              6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Unit1                    50 mins             ██████████████████████░░░   89.05 % 
+PianoPython              6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
 
 💻 Operating System: 
-Windows                  47 mins             █████████████████████████   100.00 % 
+Windows                  56 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +92,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Iplay6432/Iplay6432/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2024 18:42:50 UTC
+ Last Updated on 19/09/2024 18:42:46 UTC
 <!--END_SECTION:waka-->
 
 ![snake](https://raw.githubusercontent.com/Iplay6432/Iplay6432/output/github-contribution-grid-snake.svg)
