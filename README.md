@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 > 📦 335.5 kB Used in GitHub's Storage 
  > 
+> 🏆 100 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -60,18 +62,16 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Java                     7 mins              ███████████████████████░░   93.80 % 
-C                        0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unit1                    7 mins              ███████████████████████░░   93.80 % 
-Unknown Project          0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +90,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Iplay6432/Iplay6432/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2024 18:44:38 UTC
+ Last Updated on 16/10/2024 18:44:35 UTC
 <!--END_SECTION:waka-->
 
 ![snake](https://raw.githubusercontent.com/Iplay6432/Iplay6432/output/github-contribution-grid-snake.svg)
