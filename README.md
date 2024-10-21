@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 
 > 📦 335.5 kB Used in GitHub's Storage 
  > 
-> 🏆 100 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -90,7 +88,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Iplay6432/Iplay6432/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2024 18:41:28 UTC
+ Last Updated on 21/10/2024 18:44:54 UTC
 <!--END_SECTION:waka-->
 
 ![snake](https://raw.githubusercontent.com/Iplay6432/Iplay6432/output/github-contribution-grid-snake.svg)
