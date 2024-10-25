@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -60,17 +60,18 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   10 mins             █████████████████████████   100.00 % 
+Python                   13 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PianoPython              6 mins              ████████████████░░░░░░░░░   62.09 % 
-Unknown Project          3 mins              █████████░░░░░░░░░░░░░░░░   37.91 % 
+PianoPython              6 mins              ███████████░░░░░░░░░░░░░░   45.99 % 
+Unknown Project          3 mins              ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+Documents                3 mins              ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+Windows                  13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,7 +90,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Iplay6432/Iplay6432/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2024 18:44:34 UTC
+ Last Updated on 25/10/2024 18:43:47 UTC
 <!--END_SECTION:waka-->
 
 ![snake](https://raw.githubusercontent.com/Iplay6432/Iplay6432/output/github-contribution-grid-snake.svg)
