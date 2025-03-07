@@ -19,13 +19,15 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 53.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,21 +62,21 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    1 hr 37 mins        ███████████████████████░░   92.15 % 
-Python                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Other                    1 hr 29 mins        ███████████████████████░░   91.51 % 
+Python                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🔥 Editors: 
-Java(TM)PlatformSEbinary 1 hr 37 mins        ███████████████████████░░   92.15 % 
-VS Code                  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Java(TM)PlatformSEbinary 1 hr 29 mins        ███████████████████████░░   91.51 % 
+VS Code                  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 37 mins        ███████████████████████░░   92.15 % 
-csec                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-PianoPython-1            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Unknown Project          1 hr 29 mins        ███████████████████████░░   91.51 % 
+csec                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+PianoPython-1            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 💻 Operating System: 
-Windows                  1 hr 45 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +94,7 @@ HTML                     1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Iplay6432/Iplay6432/main/assets/bar_graph.png)
 
 
- Last Updated on 06/03/2025 18:45:15 UTC
+ Last Updated on 07/03/2025 18:45:05 UTC
 <!--END_SECTION:waka-->
 
 ![snake](https://raw.githubusercontent.com/Iplay6432/Iplay6432/output/github-contribution-grid-snake.svg)
