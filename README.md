@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 - 🔭 I’m currently working on [A Login Python Scipt Thing](https://github.com/Iplay6432/Lugin-but-no-Pygame-)
 - 🌱 I’m currently [learning C++](https://github.com/Iplay6432/LearningCpp)
 
