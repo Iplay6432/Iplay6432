@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%206%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -59,23 +61,16 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    33 mins             ████████████░░░░░░░░░░░░░   49.27 % 
-Python                   31 mins             ████████████░░░░░░░░░░░░░   46.11 % 
-Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  34 mins             █████████████░░░░░░░░░░░░   50.76 % 
-Java(TM)PlatformSEbinary 33 mins             ████████████░░░░░░░░░░░░░   49.24 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          33 mins             ████████████░░░░░░░░░░░░░   49.24 % 
-PianoPython2             32 mins             ████████████░░░░░░░░░░░░░   47.95 % 
-PianoPython              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 8 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -95,7 +90,7 @@ EJS                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Iplay6432/Iplay6432/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2025 18:49:12 UTC
+ Last Updated on 23/05/2025 18:48:39 UTC
 <!--END_SECTION:waka-->
 
 ![snake](https://raw.githubusercontent.com/Iplay6432/Iplay6432/output/github-contribution-grid-snake.svg)
