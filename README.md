@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -61,20 +61,20 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   29 mins             ███████████████████████░░   90.30 % 
-Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Python                   29 mins             ███████████████████████░░   90.33 % 
+Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-VS Code                  29 mins             ███████████████████████░░   90.57 % 
-Java(TM)PlatformSEbinary 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+VS Code                  29 mins             ███████████████████████░░   90.59 % 
+Java(TM)PlatformSEbinary 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
 
 🐱‍💻 Projects: 
-Unknown Project          25 mins             ███████████████████░░░░░░   77.72 % 
-csec                     7 mins              ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+Unknown Project          25 mins             ███████████████████░░░░░░   77.54 % 
+csec                     7 mins              ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
 
 💻 Operating System: 
-Windows                  32 mins             █████████████████████████   100.00 % 
+Windows                  33 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -94,7 +94,7 @@ EJS                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Iplay6432/Iplay6432/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2025 18:49:41 UTC
+ Last Updated on 30/05/2025 18:48:51 UTC
 <!--END_SECTION:waka-->
 
 ![snake](https://raw.githubusercontent.com/Iplay6432/Iplay6432/output/github-contribution-grid-snake.svg)
