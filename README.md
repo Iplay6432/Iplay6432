@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 > 📦 210.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 92 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,20 +63,16 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   29 mins             ███████████████████████░░   90.33 % 
-Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  29 mins             ███████████████████████░░   90.59 % 
-Java(TM)PlatformSEbinary 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          25 mins             ███████████████████░░░░░░   77.54 % 
-csec                     7 mins              ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -96,7 +92,7 @@ EJS                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Iplay6432/Iplay6432/main/assets/bar_graph.png)
 
 
- Last Updated on 01/06/2025 18:46:40 UTC
+ Last Updated on 05/06/2025 18:59:18 UTC
 <!--END_SECTION:waka-->
 
 ![snake](https://raw.githubusercontent.com/Iplay6432/Iplay6432/output/github-contribution-grid-snake.svg)
